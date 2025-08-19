@@ -1,1 +1,1 @@
-# Amazon-clone-using-HTML-and-CSS
+Quiz app
